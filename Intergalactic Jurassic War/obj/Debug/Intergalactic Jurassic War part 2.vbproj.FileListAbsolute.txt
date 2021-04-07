@@ -1,0 +1,20 @@
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\bin\Debug\Intergalactic Jurassic War part 2.exe
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\bin\Debug\Intergalactic Jurassic War part 2.pdb
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\bin\Debug\Intergalactic Jurassic War part 2.xml
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic_Jurassic_War_part_2.Resources.resources
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic Jurassic War part 2.vbproj.GenerateResource.Cache
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic Jurassic War part 2.exe
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic Jurassic War part 2.xml
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic Jurassic War part 2.pdb
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic_Jurassic_War_part_2.stage1.resources
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic_Jurassic_War_part_2.stage2.resources
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic_Jurassic_War_part_2.Splash.resources
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic_Jurassic_War_part_2.splash0.resources
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic_Jurassic_War_part_2.start.resources
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic_Jurassic_War_part_2.stage3.resources
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic_Jurassic_War_part_2.splash2.resources
+C:\Users\banan\Documents\Visual Studio 2008\Projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic_Jurassic_War_part_2.congrats.resources
+I:\Unity and other game projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic Jurassic War part 2.exe
+I:\Unity and other game projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic Jurassic War part 2.xml
+I:\Unity and other game projects\Intergalactic Jurassic War part 2\Intergalactic Jurassic War part 2\obj\Debug\Intergalactic Jurassic War part 2.pdb
